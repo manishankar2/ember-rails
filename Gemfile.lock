@@ -2,7 +2,7 @@ GIT
   remote: git://github.com/thoughtbot/ember-cli-rails.git
   revision: 29e674558cc643fe9641624f91006451afad7aae
   specs:
-    ember-cli-rails (0.6.1)
+    ember-cli-rails (0.6.0)
       cocaine (~> 0.5.8)
       ember-cli-rails-assets (>= 0.6.1)
       html_page (~> 0.1.0)
